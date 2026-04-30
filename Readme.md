@@ -1,4 +1,3 @@
-```md
 # 🌱 API de Produtos Sustentáveis
 
 Uma API simples desenvolvida com Node.js e Express com o objetivo de gerenciar e exibir produtos sustentáveis. O projeto também permite o upload de imagens, simulando um pequeno sistema de catálogo de produtos.
