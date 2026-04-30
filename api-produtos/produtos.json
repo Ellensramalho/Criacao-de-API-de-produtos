@@ -1,0 +1,21 @@
+[{
+  "id": 1,
+  "nome": "Copo sustentável",
+  "imagem": "1777489016835-822.jpg",
+  "descricao": "Copo sustentável feito de materiais reciclados, perfeito para reduzir o uso de plástico e contribuir para um planeta mais verde.",
+  "preco": 19.99
+},
+{
+  "id": 2,
+  "nome": "Prato sustentável",
+  "imagem": "1777489016869-9400.jpg",
+  "descricao": "Prato sustentável feito de materiais reciclados, perfeito para reduzir o uso de plástico e contribuir para um planeta mais verde.",
+  "preco": 29.99
+},
+{
+  "id": 3,
+  "nome": "Sacola sustentável",
+  "imagem": "1777489016887-7823.jpg",
+  "descricao": "Sacola sustentável feita de materiais reciclados, perfeita para reduzir o uso de plástico e contribuir para um planeta mais verde.",
+  "preco": 50.00
+}]
