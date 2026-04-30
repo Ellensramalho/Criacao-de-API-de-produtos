@@ -1,6 +1,7 @@
 # API de Produtos Sustentáveis
 
 Projeto desenvolvido com Node.js e Express para exibir uma lista de produtos sustentáveis e permitir o upload de imagens.
+
 ---
 ## Funcionalidades
 
